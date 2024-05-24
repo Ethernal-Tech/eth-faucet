@@ -119,36 +119,6 @@
 
 <main>
   <section class="hero is-info is-fullheight">
-    <div class="hero-head">
-      <nav class="navbar">
-        <div class="container">
-          <div class="navbar-brand">
-            <a class="navbar-item" href="../..">
-              <span class="icon">
-                <i class="fa fa-bath" />
-              </span>
-              <span><b>{faucetInfo.symbol} Faucet</b></span>
-            </a>
-          </div>
-          <div id="navbarMenu" class="navbar-menu">
-            <div class="navbar-end">
-              <span class="navbar-item">
-                <a
-                  class="button is-white is-outlined"
-                  href="https://github.com/chainflag/eth-faucet"
-                >
-                  <span class="icon">
-                    <i class="fa fa-github" />
-                  </span>
-                  <span>View Source</span>
-                </a>
-              </span>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </div>
-
     <div class="hero-body">
       <div class="container has-text-centered">
         <div class="column is-6 is-offset-3">
